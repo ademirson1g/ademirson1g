@@ -27,9 +27,9 @@
  
 ## Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=ademiron1g&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=jaydeep-yadav&theme=blueberry_duo"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ademirson1g&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=jaydeep-yadav&theme=blueberry_duo"/>
 |---|---|
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ademiron1g&layout=compact&theme=github_dark"/>|
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ademirson1g&layout=compact&theme=github_dark"/>|
 
 ## Programming Languages
 
@@ -39,7 +39,7 @@
     <a href="#"><img alt="REACT" src="https://img.shields.io/badge/React%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="#"><img alt="NextJS" src="https://img.shields.io/badge/Nextjs%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"></a>https://github-readme-streak-stats.herokuapp.com/?user=jaydeep-yadav&theme=blueberry_duo
+
 </p>
 
 ## Frameworks and Libraries
