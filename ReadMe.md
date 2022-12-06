@@ -95,7 +95,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/ademirahmetovic"><img alt="Linkedin" title="Jaydeep Yadav Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/ademirson1g"><img alt="Github" title="Jaydeep Yadav Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/ademirson1g"><img alt="Github" title="Ademir Ahmetovic Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
  </p>
  <p align="center">
   <a href="mailto:ademirahmetovic@hotmail.com"><img alt="Gmail" title="Ademir Ahmetovic Hotmail" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=email&logoColor=white"></a>
