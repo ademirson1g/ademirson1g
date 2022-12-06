@@ -1,4 +1,4 @@
-![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
+![Github Banner](https://github.com/ademirson1g/ademirson1g/blob/main/banner.png)
 <h3 align="center">
   Welcome to Ademir Ahmetovic's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
